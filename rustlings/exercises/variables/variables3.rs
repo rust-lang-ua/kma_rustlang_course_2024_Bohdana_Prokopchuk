@@ -2,7 +2,7 @@
 // Make me compile! Execute the command `rustlings hint variables3` if you want a hint :)
 
 // I AM DONE
-
+ 
 fn main() {
     let mut x = 3;
     println!("Number {}", x);
