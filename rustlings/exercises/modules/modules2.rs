@@ -3,7 +3,7 @@
 // 'use' and 'as' keywords. Fix these 'use' statements to make the code compile.
 // Make me compile! Execute `rustlings hint modules2` for hints :)
 
-// I AM DONE
+// I AM DONE 
 
 mod delicious_snacks {
 
