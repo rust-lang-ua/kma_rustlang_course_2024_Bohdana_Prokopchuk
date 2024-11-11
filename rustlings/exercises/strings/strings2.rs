@@ -1,7 +1,7 @@
 // strings2.rs
 // Make me compile without changing the function signature!
 // Execute `rustlings hint strings2` for hints :)
-
+ 
 // I AM DONE
 
 fn main() {
