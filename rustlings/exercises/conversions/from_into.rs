@@ -16,7 +16,7 @@ impl Default for Person {
             age: 30,
         }
     }
-}
+} 
 
 // Your task is to complete this implementation
 // in order for the line `let p = Person::from("Mark,20")` to compile
