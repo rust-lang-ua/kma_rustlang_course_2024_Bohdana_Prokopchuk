@@ -3,7 +3,7 @@
 // defined the Package struct and we want to test some logic attached to it.
 // Make the code compile and the tests pass!
 // If you have issues execute `rustlings hint structs3`
-
+ 
 // I AM DONE
 
 #[derive(Debug)]
