@@ -1,4 +1,4 @@
-// box1.rs
+// box1.rs 
 //
 // At compile time, Rust needs to know how much space a type takes up. This becomes problematic
 // for recursive types, where a value can have as part of itself another value of the same type.
