@@ -1,7 +1,7 @@
 // option3.rs
 // Make me compile! Execute `rustlings hint option3` for hints
 
-// I AM DONE
+// I AM DONE 
 
 struct Point {
     x: i32,
