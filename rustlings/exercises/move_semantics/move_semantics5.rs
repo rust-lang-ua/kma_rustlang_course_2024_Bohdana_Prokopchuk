@@ -4,7 +4,7 @@
 // Execute `rustlings hint move_semantics5` for hints :)
 
 // I AM DONE
-
+ 
 fn main() {
     let mut x = 100;
     let y = &mut x;
