@@ -11,7 +11,7 @@
 // Execute the command `rustlings hint hashmap1` if you need
 // hints.
 
-// I AM DONE
+// I AM DONE 
 
 use std::collections::HashMap;
 
