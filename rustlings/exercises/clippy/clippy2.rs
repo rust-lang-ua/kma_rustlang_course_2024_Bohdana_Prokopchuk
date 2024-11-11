@@ -1,7 +1,7 @@
 // clippy2.rs
 // Make me compile! Execute `rustlings hint clippy2` for hints :)
 
-// I AM DONE
+// I AM DONE 
 
 fn main() {
     let mut res = 42;
